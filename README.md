@@ -23,10 +23,10 @@ Document routing seem to be effective with a lot of peers in the network but the
 
 There 4 algorithms to solve those problem of Document Request Model :  
     1. Chord    
-	    ->	https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf  
+    ->	https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf  
     2. Tapestry      
-		->	http://www.srhea.net/papers/tapestry_jsac.pdf  
+    ->  http://www.srhea.net/papers/tapestry_jsac.pdf  
     3. Pastry      
-	    ->	http://rowstron.azurewebsites.net/PAST/pastry.pdf  
+    ->  http://rowstron.azurewebsites.net/PAST/pastry.pdf  
     4. CAN(content addressable network)    
-		->	https://people.eecs.berkeley.edu/~sylvia/papers/cans.pdf  
+    ->  https://people.eecs.berkeley.edu/~sylvia/papers/cans.pdf  
