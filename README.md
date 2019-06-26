@@ -30,3 +30,6 @@ There 4 algorithms to solve those problem of Document Request Model :
     ->  http://rowstron.azurewebsites.net/PAST/pastry.pdf  
     4. CAN(content addressable network)    
     ->  https://people.eecs.berkeley.edu/~sylvia/papers/cans.pdf  
+
+ More about Peer to Peer Overlay Networks: Structure, Routing and Maintenance
+ https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1215
